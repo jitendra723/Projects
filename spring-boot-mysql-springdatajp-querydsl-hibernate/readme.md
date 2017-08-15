@@ -9,7 +9,7 @@ Open the `application.properties` file and set your own configurations.
 
 #### Prerequisites
 
-- Java 7,8
+- Java 8
 - Maven > 3.0
 
 #### From terminal
@@ -18,7 +18,10 @@ Go on the project's root folder, then type:
 
     $ mvn spring-boot:run
 
-#### From Eclipse (Spring Tool Suite)
+#### From Eclipse
+Note:Set Vm option in eclipse.ini before running in eclipse.
+-vm
+C:\Program Files\Java\jdk1.8.0_91\bin\javaw.exe
 
 Import as *Existing Maven Project* and run it as *Spring Boot App*.
 
