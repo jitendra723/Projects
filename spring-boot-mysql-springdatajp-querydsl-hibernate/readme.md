@@ -1,4 +1,4 @@
-## Using MySQL in Spring Boot via Spring Data JPA and Hibernate
+## Using MySQL in Spring Boot via Spring Data JPA using querydsl and Hibernate
 
 
 ### Build and run
